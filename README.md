@@ -1,7 +1,7 @@
 # BI Group 7 – Mini Projects
 
-##Course:## Business Intelligence 
-##Group Members:## Kamilla, Jeanette, Juvena
+**Course:** Business Intelligence 
+**Group Members:** Kamilla, Jeanette, Juvena
 
 ---
 
