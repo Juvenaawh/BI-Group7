@@ -35,7 +35,9 @@ A mini project exploring **COVID death toll**, using Python for data analysis, v
 
 ---
 
-## Running the Streamlit App
+## Running the Streamlit App 
+
+The Streamlit is under development — only a basic placeholder is available for now.
 
 To run the Streamlit dashboard locally, follow these steps:
 
