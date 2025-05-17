@@ -37,3 +37,21 @@ A mini project exploring **COVID death toll**, using Python for data analysis, v
 
 ## Running the Streamlit App
 
+To run the Streamlit dashboard locally, follow these steps:
+
+Open Anaconda Navigator
+Launch Anaconda and open VSCode from within Anaconda.
+
+Navigate to the Streamlit Folder
+In VSCode, open a terminal and make sure you're in the Streamlit directory of the project.
+
+Install Required Packages
+In the terminal, run the following command to install all necessary packages:
+pip install streamlit
+
+Once dependencies are installed, launch the app with:
+streamlit run main.py
+
+This will open a local Streamlit web app in your browser.
+You can also run these commands in any other terminal (e.g. Windows Terminal, macOS Terminal) as long as your Python environment is activated.
+
