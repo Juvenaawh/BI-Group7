@@ -59,6 +59,7 @@ streamlit run pages/main.py
 This will open a local Streamlit web app in your browser.
 You can also run these commands in any other terminal (e.g. Windows Terminal, macOS Terminal) as long as your Python environment is activated.
 
+---
 
 - Which machine learning methods did you choose to apply in the application and why?,
 Linear Regression to predict COVID-19 deaths per million based on total cases. This method was chosen because it is good at predicting numbers and tendensies in the data.
