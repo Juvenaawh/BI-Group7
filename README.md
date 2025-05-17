@@ -47,10 +47,12 @@ In VSCode, open a terminal and make sure you're in the Streamlit directory of th
 
 Install Required Packages
 In the terminal, run the following command to install all necessary packages:
+
 pip install streamlit
 
 Once dependencies are installed, launch the app with:
-streamlit run main.py
+
+streamlit run pages/main.py
 
 This will open a local Streamlit web app in your browser.
 You can also run these commands in any other terminal (e.g. Windows Terminal, macOS Terminal) as long as your Python environment is activated.
